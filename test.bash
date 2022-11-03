@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/bin/bash -vx 
 # SPDX-FlieCopyrightText: 2022 yanagisawa ryo
 # SPDX-License-Identifier: BSD-3-Clause
 
@@ -31,4 +31,3 @@ out=$(echo | ./plus)
 [ "$res" = 0 ] && echo OK
 
 exit $res
-
