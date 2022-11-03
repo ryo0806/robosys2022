@@ -1,9 +1,10 @@
 # robosys202x
+
+* ロボットシステム学の授業で用いています.
+* 大学で扱っているアカウントです.
+
 # plusコマンド
 ![test](https://github.com/ryo0806/robosys202x/actions/workflows/test.yml/badge.svg)
-
-* 大学で用いているアカウントです.
-
 
 ##必要なソフトウェア
 * Python
