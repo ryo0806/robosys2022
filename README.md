@@ -4,7 +4,7 @@
 * 大学で扱っているアカウントです.
 
 # plusコマンド
-![test](https://github.com/ryo0806/robosys202x/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/ryo0806/robosys2022/actions/workflows/test.yml/badge.svg)
 
 ##必要なソフトウェア
 * Python
