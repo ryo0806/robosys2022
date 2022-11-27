@@ -1,4 +1,4 @@
-#!/bin/bash -vx 
+#!/bin/bash 
 # SPDX-FlieCopyrightText: 2022 yanagisawa ryo
 # SPDX-License-Identifier: BSD-3-Clause
 
