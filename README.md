@@ -11,7 +11,7 @@
  * plusについては下記に示してあります. 
 
 # plusについて
-![test](https://github.com/ryo0806/robosys2022/actions/workflows/test.yml/badge.svg) 動作に問題がない証拠
+![test](https://github.com/ryo0806/robosys2022/actions/workflows/test.yml/badge.svg) 　＊テスト認証の証
 
  * 本プログラムはsys.stdinを扱っているため, パイプ等の入力に対応しております.
 
@@ -26,7 +26,7 @@
  * 動作確認済み:python 3.7∼3.10
 
 # 動作確認済み環境
- * ubuntu 22.04 LTS 
+ * ubuntu 22.04.1 LTS 
 
 # 権限について 
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
