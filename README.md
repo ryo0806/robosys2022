@@ -1,12 +1,9 @@
 # robosys2022
 
  * ロボットシステム学の授業で用いています.
- * 大学で扱っているアカウントです.
 
 # このリポジトリの内容について
 
- * otamesi.text と a.text は github に up されているかの確認用.
- * plus_stdin.と plus_stdin.py というファイルは今は白紙.
  * test.bashとgithub/workflowsはプログラムのテスト用.
  * plusについては下記に示してあります. 
 
