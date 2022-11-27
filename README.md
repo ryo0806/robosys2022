@@ -2,9 +2,8 @@
 
 * ロボットシステム学の授業で用いています.
 * 大学で扱っているアカウントです.
-* otamesi.text は github に up されているかの確認用.
+* otamesi.text と a.text は github に up されているかの確認用.
 * plus_stdin.と plus_stdin.py に意味はありません.
-* test.bash は plus をテストするのに用います.
 
 # plusコマンド
 ![test](https://github.com/ryo0806/robosys2022/actions/workflows/test.yml/badge.svg)
