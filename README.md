@@ -11,13 +11,20 @@
 ![test](https://github.com/ryo0806/robosys2022/actions/workflows/test.yml/badge.svg) 　＊テスト認証の証
 
  * 本プログラムはsys.stdinを扱っているため, パイプ等の入力に対応しております.
+ * このプログラムは数値を足し合わせるプログラムです 
+ * 以下使用例
+　$ seq 5 | ./plus　　　　　　　　　###整数例
+　$ seq 5 | sed 's/$/.1/' | ./plus　###小数例
+  
 
 # 使用方法
 
  * 1.ubuntu22.04.1 LTSをインストール＆ダウンロードする
  * 2.pythonファイルを作成（pythonのversionに注意：下記に動作済みversionを示す）
- * 3.github上のプログラムを書く
- * 4.実行する 
+ * 3.githubのcodeからSSHをコピーする
+ * 4.git clone ＜SSH＞を行う
+ * 5.確認しディレクトリに入っていれば大丈夫です
+ * 6.実行する 
 
 # 必要なソフトウェア
  * 動作確認済み:python 3.7∼3.10
